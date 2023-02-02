@@ -6,7 +6,7 @@
 - **Main Two Types of Cancer**
 - **Malignant**: Malignant cells grow in an uncontrolled way and can invade nearby tissues and spread to other parts of the body through the blood and lymph system.
 - **Benign**:Benign tumors are those that stay in their primary location without invading other sites of the body. They do not spread to local structures or to distant parts of the body. Benign tumors tend to grow slowly and have distinct borders. Benign tumors are not usually problematic.
-![image](https://user-images.githubusercontent.com/74020844/216238055-4a546d32-44e2-49d2-ba62-03a4983806bb.png)
+- ![image](https://user-images.githubusercontent.com/74020844/216238055-4a546d32-44e2-49d2-ba62-03a4983806bb.png)
 - **ScreenShot From The Code Itself**
 - ![image](https://user-images.githubusercontent.com/74020844/216238766-86391b2f-d857-4c1c-8adc-576dd22717f2.png)
 - 0->Malignant
